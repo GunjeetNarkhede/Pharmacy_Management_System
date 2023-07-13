@@ -1,3 +1,3 @@
 # Pharmacy_management-system
-A Pharmacy management system with Gui with a database connectivity in python using Tkinter.A user can add,update,delete,search medicine details.
+A Pharmacy management system with Gui and a database connectivity in python using Tkinter.The user can add,update,delete and search medicinal details.
 
